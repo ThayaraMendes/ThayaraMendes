@@ -10,6 +10,17 @@
 - 💙 *Habilidades*: Autodidata, Pontual, Esforçada, Praticidade, Engajamento, Comprometimento, Boa
 Comunicação, Protagonismo.
 
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thayaramendes&show_icons=true&theme=neon)
+
+
+## Estatísticas GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thayaramendes&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thayaramendes&repo=thayaramendes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thayaramendes/thayaramendes)
+
 
 
 <h3 align="left">Alguns Links Sociais Para Conectarmos:</h3>
