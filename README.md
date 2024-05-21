@@ -1,7 +1,8 @@
 ## Olá, Seja muito bem vindo ao meu perfil 👋
 
-
 ## Um Breve Portifólio, mostrando em prática o aprendizado do curso.
+
+## Meu Primeiro Portifólio.
 
 - 🔭 Profissional em busca de experiência no mercado de desenvolvimento de sistemas *Back-End*. 
 
@@ -17,8 +18,6 @@ Comunicação, Protagonismo.
 <a href="https://www.facebook.com/thayara.mendes.14?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thayaramendes" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thayaramendes?igsh=cm1oaWF4bDd4azNr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thayaramendes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thayara-mendes-930b42140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thayaramendes" height="30" width="40" /></a> </a>
-
-
 
 
 
