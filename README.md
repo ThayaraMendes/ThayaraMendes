@@ -12,7 +12,7 @@ Comunicação, Protagonismo.
 
 
 
-<h3 align="left">Alguns links social para conectarmos:</h3>
+<h3 align="left">Alguns Links Sociais Para Conectarmos:</h3>
 
 <a href="https://www.facebook.com/thayara.mendes.14?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thayaramendes" height="30" width="40" /></a>
 <a href="https://www.instagram.com/thayaramendes?igsh=cm1oaWF4bDd4azNr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thayaramendes" height="30" width="40" /></a>
