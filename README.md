@@ -1,8 +1,7 @@
-## Olá, Seja muito bem vindo ao meu perfil 👋
+## Olá, Seja Muito Bem Vindo ao Meu Perfil 👋
 
-## Um Breve Portifólio, mostrando em prática o aprendizado do curso.
+## *Meu Primeiro Portifólio*, mostrando em prática o aprendizado do curso.
 
-## Meu Primeiro Portifólio.
 
 - 🔭 Profissional em busca de experiência no mercado de desenvolvimento de sistemas *Back-End*. 
 
